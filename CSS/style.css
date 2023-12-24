@@ -1,0 +1,38 @@
+/* font-family: 'Pacifico',
+cursive; */
+
+/* font-family: 'Mitr',
+sans-serif; */
+
+body {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+header {
+  min-height: 100vh;
+  background-color: #eee;
+}
+
+h1 {
+  font-family: 'Mitr', sans-serif;
+
+}
+
+button {
+  background-color: rgb(233, 71, 103);
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: rgb(34, 138, 69);
+}
+
+.author img {
+  width: 18.75rem;
+}
+
+p:last-child,
+p:nth-last-child(2) {
+  font-family: 'Marck Script', cursive;
+  font-weight: bold;
+}
